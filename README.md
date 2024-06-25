@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Programming related languages:</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Programming related languages:</h3>
+<h3 align="left">Frameworks:</h3>
 
 ###
 
