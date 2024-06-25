@@ -1,4 +1,4 @@
-<h2 align="center">👹 I'm Anton, nice to meet you !</h2>
+<h1 align="center">👹 I'm Anton, nice to meet you !</h1>
 
 ###
 
