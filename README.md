@@ -117,4 +117,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/aent0n/aent0n/output/snake.svg" alt="Snake animation" />
+
 ###
