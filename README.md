@@ -1,4 +1,4 @@
-<h1 align="center">👹 I'm Anton, nice to meet you !</h1>
+<h1 align="center">👹 H there, I'm Anton, nice to meet you !</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/3NWCC0Y/Animation-1719342483603.gif" alt="Animation-1719342483603" border="0" /></a> Coding Tools</h2>
+<h2 align="left"> Coding Tools</h2>
 
 ###
 
