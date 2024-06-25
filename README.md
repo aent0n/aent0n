@@ -119,7 +119,7 @@
 
 <br clear="both">
 
-[![An image of @aent0n's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aent0n)](https://holopin.io/@aent0n)
+<img src="https://holopin.me/aent0n" height="100" />
 
 <img src="https://raw.githubusercontent.com/aent0n/aent0n/output/snake.svg" alt="Snake animation" />
 
