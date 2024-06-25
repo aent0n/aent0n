@@ -119,7 +119,9 @@
 
 <br clear="both">
 
-<img src="https://holopin.me/aent0n" height="200" class="center" />
+<div align="center">
+  <img src="https://holopin.me/aent0n" height="200" />
+</div>
 
 <img src="https://raw.githubusercontent.com/aent0n/aent0n/output/snake.svg" alt="Snake animation" />
 
